@@ -1,0 +1,47 @@
+img{
+  border: none;
+}
+#one{
+  width: 75%;
+}
+ .nav-link {
+   color: black;
+ }
+#search-icon {
+  background-color: transparent;
+}
+.jumbotron{
+  height:500px;
+  width: 100%;
+  background-image: url("../img/Altia1.jpg");
+  border-radius: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+#social-media li {
+  padding: 6px 14px;
+  border: 1px solid coral;
+  background-color: coral;
+  border-radius: 10rem;
+  margin: 5px;
+}
+
+#p-1 {
+  /* margin: 0px 70px; */
+  text-align: center;
+  padding: 0 20px;
+}
+.ttc {
+  color: #555;
+}
+
+.ttc:hover {
+  text-decoration: none;
+  color: coral;
+}
+a.text-dark:hover, a.text-dark:focus {
+  color: coral !important;
+}
